@@ -3,6 +3,8 @@ def greet_characters(array)
   #
   # Print a custom greeting for each element
   
+  total = 0 
+  
   
   
 end
