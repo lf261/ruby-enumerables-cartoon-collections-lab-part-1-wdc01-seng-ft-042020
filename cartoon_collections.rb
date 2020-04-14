@@ -5,7 +5,7 @@ def greet_characters(array)
   
   total = 0 
   
-  
+  array.each 
   
 end
 
