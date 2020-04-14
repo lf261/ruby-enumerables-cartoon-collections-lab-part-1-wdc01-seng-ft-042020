@@ -5,7 +5,7 @@ def greet_characters(array)
   
   array.each do |element|
    elementstring = element.to_s 
-   puts "Hello #{elementstring.Capitalize}"
+   puts "Hello #{elementstring.capitalize}"
   end 
   
 end
